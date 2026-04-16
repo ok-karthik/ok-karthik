@@ -47,7 +47,7 @@ Over the last 10+ years, I’ve worked on production systems used by 400+ engine
 ## 🧩 Selected Work
 
 ### 🔹 Internal Developer Platform (Prototype)
-👉 https://github.com/ok-karthik/my-local-platform  
+👉 https://github.com/ok-karthik/gitops-idp-blueprint  
 - Built a Kubernetes-based IDP using Crossplane, ArgoCD, cert-manager, Traefik  
 - Enabled declarative infrastructure provisioning and self-service workflows  
 - Applied GitOps patterns for environment provisioning and platform consistency  
