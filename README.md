@@ -42,17 +42,18 @@ Focused on building scalable, reliable systems that reduce operational overhead 
 
 ## 🧩 Selected Work
 
-### 🔹 Internal Developer Platform
-👉 https://github.com/ok-karthik/gitops-idp-blueprint  
-Kubernetes-based IDP using Crossplane + ArgoCD enabling self-service infrastructure and GitOps workflows  
+### 🏗️ [Enterprise AWS Platform (Terragrunt)](https://github.com/ok-karthik/enterprise-aws-platform-terragrunt)
+Multi-environment AWS platform using Terraform + Terragrunt with DRY architecture, OIDC-based access, and CI/CD-driven provisioning.  
+Designed to model real-world platform structure, reuse, and scalability.
 
-### 🔹 FinOps Kubernetes Operator
-👉 https://github.com/ok-karthik/finops-k8s-operator  
-Automates scaling idle workloads to reduce non-production compute cost  
+### 🔹 [Internal Developer Platform (IDP) Blueprint](https://github.com/ok-karthik/gitops-idp-blueprint)
+Work-in-progress exploring IDP patterns using Kubernetes and GitOps (ArgoCD), focusing on self-service workflows and platform abstractions.
 
-### 🔹 Helm Library Chart
-👉 https://github.com/ok-karthik/app-library-helm-chart  
-Standardizes configuration across multi-environment and multi-cluster setups  
+### 🔹 [FinOps Kubernetes Operator](https://github.com/ok-karthik/finops-k8s-operator)  
+Automates scaling idle workloads to reduce non-production compute cost.
+
+### 🔹 [Standardized Helm Library Chart](https://github.com/ok-karthik/app-library-helm-chart)  
+Standardizes configuration across multi-environment and multi-cluster setups
 
 ---
 
