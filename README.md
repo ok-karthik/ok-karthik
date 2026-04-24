@@ -42,12 +42,12 @@ Focused on building scalable, reliable systems that reduce operational overhead 
 
 ## 🧩 Selected Work
 
-### 🏗️ [Enterprise AWS Platform (Terragrunt)](https://github.com/ok-karthik/enterprise-aws-platform-terragrunt)
+### 🏗️ [Enterprise AWS Infrastructure (Terragrunt)](https://github.com/ok-karthik/enterprise-aws-infrastructure-terragrunt)
 Multi-environment AWS platform using Terraform + Terragrunt with DRY architecture, OIDC-based access, and CI/CD-driven provisioning.  
 Designed to model real-world platform structure, reuse, and scalability.
 
 ### 🔹 [Internal Developer Platform (IDP) Blueprint](https://github.com/ok-karthik/gitops-idp-blueprint)
-Work-in-progress exploring IDP patterns using Kubernetes and GitOps (ArgoCD), focusing on self-service workflows and platform abstractions.
+Work-in-progress - Designing a GitOps-driven IDP blueprint integrating Crossplane, Kyverno and Argo Rollouts to enable self-service provisioning and standardized platform workflows.
 
 ### 🔹 [FinOps Kubernetes Operator](https://github.com/ok-karthik/finops-k8s-operator)  
 Automates scaling idle workloads to reduce non-production compute cost.
