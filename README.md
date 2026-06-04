@@ -18,7 +18,7 @@ I design, build, and scale enterprise-grade infrastructure, focusing on GitOps, 
 
 ### 📊 GitHub Activity
 <p align="left">
-  <img src="https://github-readme-stats.shion.dev/api?username=ok-karthik&show_icons=true&theme=dracula&hide_border=true" alt="Karthik's GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=ok-karthik&show_icons=true&theme=dracula&hide_border=true&hide_rank=true" alt="Karthik's GitHub Stats" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ok-karthik&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
 </p>
 
