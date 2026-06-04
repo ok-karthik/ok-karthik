@@ -17,9 +17,10 @@ I design, build, and scale enterprise-grade infrastructure, focusing on GitOps, 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### 📊 GitHub Activity
+
 <p align="left">
-  <img src="https://github-readme-stats.shion.dev/api?username=ok-karthik&show_icons=true&theme=dracula&hide_border=true&hide_rank=true" alt="Karthik's GitHub Stats" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ok-karthik&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api?username=ok-karthik&show_icons=true&hide_border=true&hide_rank=true&bg_color=0a0a0a&title_color=06b6d4&text_color=a3a3a3&icon_color=06b6d4" alt="Karthik's GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ok-karthik&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=06b6d4&text_color=a3a3a3" alt="Top Languages" />
 </p>
 
 ---
