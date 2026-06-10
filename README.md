@@ -3,7 +3,7 @@
 
 I design, build, and scale enterprise-grade infrastructure, focusing on GitOps, internal developer platforms (IDPs), and cloud-native Kubernetes architectures.
 
-🚀 **[View My Full Portfolio & Architecture Case Studies](https://ok-karthik.github.io/)** 🚀
+🚀 **[View My Full Portfolio & Architecture Case Studies](https://karthik-orugonda.pages.dev)** 🚀
 
 ---
 
