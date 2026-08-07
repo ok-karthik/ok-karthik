@@ -5,7 +5,7 @@ I build the platforms other engineers ship on — internal developer platforms, 
 
 Most recently at Aldi Süd: led an **org-wide observability migration from New Relic to Dynatrace** across multiple engineering departments, standardised on OpenTelemetry with monitoring-as-code in Terraform, and cut MTTR and alert noise **~30%**.
 
-📍 Berlin, Germany · German Permanent Residence · **Available from 15 December 2026**
+📍 Berlin, Germany · German Permanent Residence
 
 **[Portfolio & architecture case studies →](https://ok-karthik.github.io/)** · **[LinkedIn](https://linkedin.com/in/karthikorugonda)**
 
@@ -52,6 +52,6 @@ Most recently at Aldi Süd: led an **org-wide observability migration from New R
 
 ---
 
-**Open to Senior/Staff Platform Engineering and SRE roles in Germany, from December 2026.**
+**Open to Senior/Staff Platform Engineering and SRE roles in Germany**
 
 📫 [LinkedIn](https://linkedin.com/in/karthikorugonda) · [Email](mailto:karthik.orugonda@gmail.com) · [Portfolio](https://ok-karthik.github.io/)
