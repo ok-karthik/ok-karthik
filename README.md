@@ -1,7 +1,7 @@
-# Hi, I'm Karthik 👋
+# I build the platforms other engineers ship on
 ### Senior Platform Engineer & Site Reliability Engineer
 
-I build the platforms other engineers ship on — internal developer platforms, GitOps delivery, Kubernetes at multi-team scale, and the observability that keeps it all reliable.
+Internal developer platforms, GitOps delivery, Kubernetes at multi-team scale, and the observability that keeps it all reliable.
 
 Most recently at Aldi Süd: led an **org-wide observability migration from New Relic to Dynatrace** across multiple engineering departments, standardised on OpenTelemetry with monitoring-as-code in Terraform, and cut MTTR and alert noise **~30%**.
 
